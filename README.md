@@ -2,8 +2,8 @@
 Some configurations to [freewheeling](https://github.com/free-wheeling/freewheeling) (Looper software : )
 
 
-coreinterface.xml : compatible with azerty keybord + french version of the help window
-pckeyboard.xml : compatible with azerty keybord.
+coreinterface.xml : compatible with azerty keybord + french version of the help window  
+pckeyboard.xml : compatible with azerty keybord.  
 Those two are a version of https://sourceforge.net/p/freewheeling/mailman/message/27197011/ with help window improved
 
 footswitch.xml : A very simple configuration for non midi footswitch  
